@@ -1,6 +1,6 @@
 # partner-private-chat
 
-1. In the terminal run: "npm install -g expo-cli" to download Expo, also install yarn: "yarn install"
+1. In the terminal run: "npm install -g expo-cli yarn" to download Expo and yarn
 2. Go to expo.io register a free account
 3. Back to the terminal, go to the repository run: git clone https://github.com/syytruong/partner-private-chat.git
 4. Then run "yarn install" to install libraries 
