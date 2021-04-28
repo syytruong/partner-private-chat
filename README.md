@@ -14,5 +14,6 @@ Your phone will render the application
 
 Tech:
 # Expo
+https://expo.io/
 # React native
-# RESTful API
+https://reactnative.dev/
