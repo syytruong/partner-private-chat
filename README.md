@@ -7,7 +7,7 @@
 
 The browser will open a window with a QR code
 
-5. In your Iphone, go to App store to download Expo app
+5. In your Iphone, go to App store to download Expo Go app
 6. Use Iphone camera to scan the QR code and open it with Expo app
 
 Your phone will render the application
